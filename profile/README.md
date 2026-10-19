@@ -13,3 +13,16 @@ Dotablaze Tech: a Go and Nx monorepo for Discord bots and services, deployed to 
 
 See [CONTRIBUTING.md](https://github.com/dotablaze-tech/.github/blob/main/CONTRIBUTING.md) and the
 [security policy](https://github.com/dotablaze-tech/.github/blob/main/SECURITY.md).
+
+## Support
+
+If you enjoy these projects, you can help keep them running:
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/jdwillmsen">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/jdwillmsen">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+  </a>
+</p>
