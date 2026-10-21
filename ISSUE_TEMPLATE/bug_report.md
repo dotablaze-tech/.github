@@ -26,7 +26,7 @@ assignees: jdwillmsen
 
 ## Environment
 
-- **Repo:** <!-- platform / deployments -->
+- **Repo:** <!-- apps / deployments -->
 - **Version / Commit:** <!-- git rev-parse --short HEAD -->
 - **OS:** 
 - **Relevant versions:** <!-- Node, Go, Helm, K8s, etc. -->

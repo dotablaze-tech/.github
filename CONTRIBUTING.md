@@ -21,7 +21,7 @@ This org uses [Conventional Commits](https://www.conventionalcommits.org/):
 | `ci` | CI/CD pipeline changes |
 | `perf` | Performance improvement |
 
-In `platform`, only `fix` and `feat` commits cut a release (and deploy meowbot),
+In `apps`, only `fix` and `feat` commits cut a release (and deploy meowbot),
 so use them for anything that changes shipped behavior or runtime dependencies.
 
 **Examples:**
@@ -77,7 +77,7 @@ or comments.
 Each repo enforces its own linting and formatting in CI. Run them before
 opening a PR; see the repo's `AGENTS.md` for the exact commands.
 
-- **platform**: `npx nx format:check` and `npx nx affected -t lint test build`
+- **apps**: `npx nx format:check` and `npx nx affected -t lint test build`
 - **deployments**: `helm lint charts/<chart>` and `helm template` per environment
 
 ## Reporting Issues

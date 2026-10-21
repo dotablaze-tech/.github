@@ -5,7 +5,7 @@
 Do **not** open a public issue for security vulnerabilities.
 
 Report privately with GitHub's private vulnerability reporting: open the affected repository's **Security** tab and choose **Report a vulnerability**
-([platform](https://github.com/dotablaze-tech/platform/security/advisories/new),
+([apps](https://github.com/dotablaze-tech/apps/security/advisories/new),
 [deployments](https://github.com/dotablaze-tech/deployments/security/advisories/new)).
 
 Include:
