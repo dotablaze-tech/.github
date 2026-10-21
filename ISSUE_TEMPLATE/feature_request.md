@@ -20,7 +20,7 @@ assignees: jdwillmsen
 
 ## Affected Repo(s)
 
-- [ ] platform
+- [ ] apps
 - [ ] deployments
 
 ## Additional Context
